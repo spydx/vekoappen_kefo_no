@@ -18,4 +18,4 @@ Also not required to utilize the base features of the app.
 
 Regards,
 
-Kenneth Fossen
+Kenneth @ kefo.no
