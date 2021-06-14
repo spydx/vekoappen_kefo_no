@@ -20,7 +20,7 @@ Create your of Favorite program and attend as much fun as possible.
 
 ## Download
 
-{% include googlestore.html %}
+{% include appstore.html %} {% include googlestore.html %}
 
 ## Showcase
 
@@ -31,7 +31,7 @@ Create your of Favorite program and attend as much fun as possible.
 ![](/assets/img/vekoappen/showcase/05.png){: width="250" }
 ![](/assets/img/vekoappen/showcase/06.png){: width="250" }
 ![](/assets/img/vekoappen/showcase/07.png){: width="250" }
-![](/assets/img/vekoappen/showcase/08.png){: width="250" }
+
 
 ## Issues and feature requests
 
