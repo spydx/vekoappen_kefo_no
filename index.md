@@ -20,7 +20,8 @@ Create your of Favorite program and attend as much fun as possible.
 
 ## Download
 
-{% include appstore.html %} {% include googlestore.html %}
+[![Google Play](/assets/img/stores/play_en_badge_web_generic.png){: width="250" }](https://play.google.com/store/apps/details?id=no.kefo.vekoappen)
+[![AppStore](/assets/img/stores/appstore_en-us.svg){: width="200" }](https://apps.apple.com/us/app/vekoappen/id1524918599)
 
 ## Showcase
 
