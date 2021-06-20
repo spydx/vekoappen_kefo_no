@@ -9,7 +9,7 @@ layout: home
 **IOS** [![Codemagic build status](https://api.codemagic.io/apps/5f202ea30aa9776f617c0b30/5f202ea30aa9776f617c0b2f/status_badge.svg)](https://codemagic.io/apps/5f202ea30aa9776f617c0b30/5f202ea30aa9776f617c0b2f/latest_build)
 **Android** [![Codemagic build status](https://api.codemagic.io/apps/5f202ea30aa9776f617c0b30/5ff5ad566b96ea5df97745d1/status_badge.svg)](https://codemagic.io/apps/5f202ea30aa9776f617c0b30/5ff5ad566b96ea5df97745d1/latest_build)
 
-[![Ekstremsportveko](/assets/img/vekoappen/ekstremsportveko.png)](https://www.ekstremsportveko.com)
+[![Ekstremsportveko](/assets/img/vekoappen/ESV_Logo_Svart_RGB.png)](https://www.ekstremsportveko.com)
 
 The app for the **Ekstremsportveko** festival in Voss.
 
@@ -32,6 +32,9 @@ Create your of Favorite program and attend as much fun as possible.
 ![](/assets/img/vekoappen/showcase/05.png){: width="250" }
 ![](/assets/img/vekoappen/showcase/06.png){: width="250" }
 ![](/assets/img/vekoappen/showcase/07.png){: width="250" }
+![](/assets/img/vekoappen/showcase/08.png){: width="250" }
+![](/assets/img/vekoappen/showcase/09.png){: width="250" }
+![](/assets/img/vekoappen/showcase/10.png){: width="250" }
 
 
 ## Issues and feature requests
