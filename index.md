@@ -25,16 +25,13 @@ Create your of Favorite program and attend as much fun as possible.
 
 ## Showcase
 
-![](/assets/img/vekoappen/showcase/01.png){: width="250" } 
-![](/assets/img/vekoappen/showcase/02.png){: width="250" }
-![](/assets/img/vekoappen/showcase/03.png){: width="250" }
-![](/assets/img/vekoappen/showcase/04.png){: width="250" }
-![](/assets/img/vekoappen/showcase/05.png){: width="250" }
-![](/assets/img/vekoappen/showcase/06.png){: width="250" }
-![](/assets/img/vekoappen/showcase/07.png){: width="250" }
-![](/assets/img/vekoappen/showcase/08.png){: width="250" }
-![](/assets/img/vekoappen/showcase/09.png){: width="250" }
-![](/assets/img/vekoappen/showcase/10.png){: width="250" }
+![](/assets/img/vekoappen/showcase_2022/01.png){: width="250" } 
+![](/assets/img/vekoappen/showcase_2022/02.png){: width="250" }
+![](/assets/img/vekoappen/showcase_2022/03.png){: width="250" }
+![](/assets/img/vekoappen/showcase_2022/04.png){: width="250" }
+![](/assets/img/vekoappen/showcase_2022/05.png){: width="250" }
+![](/assets/img/vekoappen/showcase_2022/06.png){: width="250" }
+![](/assets/img/vekoappen/showcase_2022/07.png){: width="250" }
 
 
 ## Issues and feature requests
